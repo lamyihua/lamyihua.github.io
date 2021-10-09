@@ -58,7 +58,8 @@ sitemap:
 <p></p>
 <p></p>
 <ul class="actions">
-<li><a href="xrb.md" class="button">Read More</a></li>
+<!-- <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li> -->
+<li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="xrb.md" class="button"><p style="text-align:right;">Read More</p></a></li>
 </ul>
 </article>
 
