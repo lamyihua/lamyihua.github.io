@@ -42,9 +42,9 @@ sitemap:
             {% include nav.html %}
 					</nav>
 
-				<!-- Main -->
-					<div id="main">
-						<!-- Featured Post -->
+<!-- Main -->
+<div id="main">
+<!-- Featured Post -->
 <article class="post featured">
 <header class="major">
 <h2><a href="#">Type-I X-Ray Burst</a></h2>
@@ -53,7 +53,7 @@ sitemap:
 <br />
 </p>
 </header>
-<a href="#" class="image right"><img src="{{ "/images/binarystarcataclysm_Vertical.jpg" | absolute_url }}" alt="" style="float:left;width:500px;margin:4px 4px 4px 7px;"/></a>
+<a href="#" class="image right"><img src="{{ "/images/binarystarcataclysm_Vertical.jpg" | absolute_url }}" alt="" style="float:left;width:400px;margin:4px 4px 4px 7px;"/></a>
 <p style="text-align:justify;">X-ray bursts happens in binary systems consists of a host neutron star and low-mass main sequence star. As the neutron star possesses enormous gravitational force, once both the neutron star and lifelong companion star are close enough, the stellar fuel of the companion star are siphoned to the neutron star forming an envelope surrounding the neutron-star atmosphere. The envelope is further compressed. The accreted light chemical elements in stellar fuel are then fused to form heavier elements, until it ignited explosively. The envelope is burned up to around 1 billion Celsius degrees and releases a sudden or several bursts of X-rays.</p>
 <p></p>
 <p></p>
@@ -63,21 +63,21 @@ sitemap:
 </ul>
 </article>
 
-						<!-- Posts -->
-							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<!-- <span class="date">{{ post.date | date_to_string }}</span> -->
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
+<!-- Posts -->
+<section class="posts">
+{% for post in site.posts limit:3 %}
+{% assign mod3 = forloop.index | modulo: 3 %}
+<article>
+<header>
+<!-- <span class="date">{{ post.date | date_to_string }}</span> -->
+<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+</header>
+<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+<p>{{ post.excerpt }}</p>
+<ul class="actions">
+<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+</ul>
+</article>
 <!-- {% if mod3 == 0 %} -->
 <!-- <article> -->
 <!-- <header> -->
@@ -85,23 +85,20 @@ sitemap:
 <!-- </header> -->
 <!-- </article> -->
 <!-- {% endif %} -->
-                {% endfor %}
+{% endfor %}
+</section>
 
-							</section>
+<!-- Footer -->
+<footer>
+<ul class="actions">
+<li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+</ul>
+</footer>
+</div>
 
-						<!-- Footer -->
-							<footer>
-                <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-                </ul>
-							</footer>
-
-					</div>
-
-				<!-- Footer -->
-        {% include foot.html %}
-
-			</div>
+<!-- Footer -->
+{% include foot.html %}
+</div>
 
 <!-- Scripts -->
 <!-- {% include scripts-main.html %} -->
