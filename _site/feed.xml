@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-10T11:54:09+08:00</updated><id>/</id><title type="html">Nuclear Astrophysics</title><subtitle>Jekyll version of the Massively theme by HTML5UP</subtitle><entry><title type="html">Type-I X-Ray Burst</title><link href="/blog/xrb/" rel="alternate" type="text/html" title="Type-I X-Ray Burst" /><published>2021-10-09T00:00:00+08:00</published><updated>2021-10-09T00:00:00+08:00</updated><id>/blog/xrb</id><content type="html" xml:base="/blog/xrb/">&lt;h2 id=&quot;type-i-x-ray-burst&quot;&gt;Type-I X-Ray Burst&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/Neutron-Star-X-Ray-Burst.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Stars of approximate 12 times or more than the mass of our Sun terminate their lives in the so-called supernovae which are extremely violent explosions that produce neutron stars. More often than not, supernovae are asymmetric, and the produced neutron stars are kicked with velocity up to 550 km/s to meet with a lifelong companion star if they are lucky or else they will be a lone ranger in galaxy. A neutron star could have around 1.5 times or more the mass of our sun and with only a diameter of around 24 km which is 3 times less than the height of Mount Everest.&lt;/p&gt;
+
+&lt;p&gt;Neutron stars are extremely massive. It just like compressing 1.5 times the mass of Sun to within 3 times the size of Mount Everest, causing its gravitational pull much stronger than Sun. If the kicked neutron star is close enough to a lifelong companion star having around the mass of our Sun, they both orbit around one another and form a binary system. Meanwhile, the main compositions of stellar fuel of the companion star, i.e., hydrogen and helium, are siphoned to the neutron star due to the enormous gravitational force of neutron star. An envelope surrounding the neutron-star atmosphere is formed. The stellar fuel of hydrogen and helium in the envelope is further compressed and then fused to form heavier chemical elements, like carbon, oxygen, and nitrogen. Such fusions keep adding hydrogen or helium to the freshly formed heavier elements, more and more heavy elements are synthesized, until the accreted stellar fuel is exhausted.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/BeppoSAX_Satellite_001.jpg&quot; alt=&quot;&quot; title=&quot;Artistic view of BeppoSAX.&quot; /&gt;&lt;/span&gt;
+Artistic view of BeppoSAX. Image from: &lt;a href=&quot;https://sciencesprings.wordpress.com/2015/10/31/from-nasa-blueshift-back-to-school-with-grb-101/&quot;&gt;ScienceSprings&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Throughout the fusion process, energetic X-rays of thousands of times brighter than our Sun are emitted from the extremely high density envelope. Such energetic X-ray pulses are termed Type-I X-ray bursts. Also, the couple of a neutron star and its companion star giving birth to these bursts are called X-ray bursters, for example, the recently most investigated GS 1826–24 X-ray burster which has the characteristic of almost consistent light curve shape, and the SAX J1808.4–3658 X-ray burster. Subsequent rounds of fusion processes generating strong X-ray pulses could also occur as long as there are enough following clumps of stellar fuels. These X-ray signals can be detected by sensitive telescopes mounted on satellites, like &lt;a href=&quot;https://heasarc.gsfc.nasa.gov/docs/ginga/ginga.html&quot;&gt;GINGA&lt;/a&gt;, &lt;a href=&quot;https://heasarc.gsfc.nasa.gov/docs/xte/rxte.html&quot;&gt;Rossi X-ray Timing Explorer (RXTE)&lt;/a&gt;, &lt;a href=&quot;https://heasarc.gsfc.nasa.gov/docs/heasarc/missions/swift.html&quot;&gt;Swift&lt;/a&gt;, &lt;a href=&quot;https://heasarc.gsfc.nasa.gov/docs/sax/sax.html&quot;&gt;BeppoSAX&lt;/a&gt;, and the &lt;a href=&quot;https://heasarc.gsfc.nasa.gov/docs/maxi/maxi.html&quot;&gt;Monitor of All-sky X-ray Image (MAXI)&lt;/a&gt;. The GS 1826–24 burster was discovered by GINGA, whereas the SAX J1808.4–3658 burster was found by BeppoSAX.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/Ginga_001.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+GINGA (aka ASTRO-C), Image credits: Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency.&lt;/p&gt;
+
+&lt;p&gt;Up to date, more than 7000 X-ray bursts emitted from 115 X-ray bursters have been observed. Nevertheless, none of these observed bursts can be closely reproduced by theoretical models. One of the underlying reason is due to the vast uncertainties in important fusion reactions influencing the onset of X-ray bursts.&lt;/p&gt;
+
+&lt;p&gt;We have advanced the pioneering GS 1826-24 clocked burst model with a new and more precise 22Mg(a,p) reaction rate. See &lt;a href=&quot;https://arxiv.org/abs/2108.04553/&quot;&gt;arxiv:2108.04553&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/SAXJ1808_nicer_burst_final_still.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;We have advanced the pioneering SAX J1808.4-3658 photospheric radius expansion burst model with a new and more precise 22Mg(a,p) reaction rate.  See &lt;a href=&quot;https://arxiv.org/abs/2108.04553/&quot;&gt;arxiv:2108.04553&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/binarystarcataclysm.jpg" /></entry><entry><title type="html">Welcome to Massively: The Jekyll Theme!</title><link href="/blog/welcome-to-massively-the-jekyll-theme/" rel="alternate" type="text/html" title="Welcome to Massively: The Jekyll Theme!" /><published>2017-10-31T00:00:00+08:00</published><updated>2017-10-31T00:00:00+08:00</updated><id>/blog/welcome-to-massively-the-jekyll-theme</id><content type="html" xml:base="/blog/welcome-to-massively-the-jekyll-theme/">&lt;h2 id=&quot;how-to-use-this-theme&quot;&gt;How to Use This Theme&lt;/h2&gt;
+&lt;p&gt;Just go ahead and read up on &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;how to install Jekyll&lt;/a&gt;. It’s not too hard I promise!&lt;/p&gt;
+
+&lt;p&gt;Download this repository &lt;a href=&quot;https://github.com/iwiedenm/jekyll-theme-massively&quot;&gt;here&lt;/a&gt; and save it to any folder you want.&lt;/p&gt;
+
+&lt;p&gt;Open a terminal window or a command line and &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; to that location.&lt;/p&gt;
+
+&lt;p&gt;Then enter: &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;. You can now access your new Jekyll site from &lt;a href=&quot;http://127.0.0.1:4000/&quot;&gt;http://127.0.0.1:4000/&lt;/a&gt;. Have fun exploring your new site!&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;h3 id=&quot;auto-generating-sitemap&quot;&gt;Auto-Generating Sitemap&lt;/h3&gt;
+&lt;p&gt;The sitemap is auto generated! Just simply change the front matter of each site. It looks like so…&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sitemap:
+    priority: 0.7
+    lastmod: 2017-11-02
+    changefreq: weekly
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 id=&quot;formspring-integration&quot;&gt;Formspring integration&lt;/h3&gt;
+&lt;p&gt;The contact form below each page on the footer actually collects information! Just change your email address in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file!&lt;/p&gt;</content><summary type="html">Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/pic02.jpg" /></entry></feed>
