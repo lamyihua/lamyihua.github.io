@@ -36,7 +36,8 @@
 		bg:					rgba(#dcdcdc, 0.25),
 		fg:					mix(#ffffff, 70%),
 		fg-bold:			mix(#ffffff, 70%),
-		fg-light:			mix(#212931, #ffffff, 50%),
+		/* fg-light:			mix(#212931, #ffffff, 50%), */
+		fg-light:			mix(#ffffff, 70%),
 		border:				mix(#dcdcdc, #ffffff, 50%),
 		border-bg:			rgba(#dcdcdc, 0.25),
 		accent:				#18bfef,
