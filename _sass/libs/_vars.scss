@@ -34,10 +34,10 @@
 		/* bg:					#ffffff, */
 		/* fg:					#212931, */
 		bg:					rgba(#dcdcdc, 0.25),
-		fg:					mix(#ffffff, 70%),
-		fg-bold:			mix(#ffffff, 70%),
+		fg:					rgba(#ffffff, 0.70),
+		fg-bold:			rgba(#ffffff, 0.70),
 		/* fg-light:			mix(#212931, #ffffff, 50%), */
-		fg-light:			mix(#ffffff, 70%),
+		fg-light:			rgba(#ffffff, 0.70),
 		border:				mix(#dcdcdc, #ffffff, 50%),
 		border-bg:			rgba(#dcdcdc, 0.25),
 		accent:				#18bfef,
