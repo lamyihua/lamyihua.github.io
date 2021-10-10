@@ -32,9 +32,10 @@
 		wrapper-bg:			#212931,
 
 		/* bg:					#ffffff, */
+		/* fg:					#212931, */
 		bg:					rgba(#dcdcdc, 0.25),
-		fg:					#212931,
-		fg-bold:			#212931,
+		fg:					mix(#ffffff, 70%),
+		fg-bold:			mix(#ffffff, 70%),
 		fg-light:			mix(#212931, #ffffff, 50%),
 		border:				mix(#dcdcdc, #ffffff, 50%),
 		border-bg:			rgba(#dcdcdc, 0.25),
