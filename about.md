@@ -59,9 +59,9 @@ ORCID: [0000-0001-6646-0745](http://orcid.org/0000-0001-6646-0745)
 </header>
 <p>Research Interests:
 <br>
-<h3> Nuclear Physics </h3>
+<!--- <h3> Nuclear Physics </h3> -->
 Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking
-<h3> Nuclear Astrophysics </h3>
+<!--- <h3> Nuclear Astrophysics </h3> -->
 Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
