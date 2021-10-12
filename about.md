@@ -33,7 +33,7 @@ PhD student
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: [0000-0002-3445-0451](http://orcid.org/0000-0002-3445-0451)
+ORCID: <a href="http://orcid.org/0000-0002-3445-0451"> 0000-0002-3445-0451</a></h2>
 </p>
 </header>
 <p>Research Interests:
@@ -54,7 +54,7 @@ Associate Research Scientist
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: [0000-0001-6646-0745](http://orcid.org/0000-0001-6646-0745)
+ORCID: <a href="http://orcid.org/0000-0001-6646-0745"> 0000-0001-6646-0745</a></h2>
 </p>
 </header>
 <p>Research Interests:
