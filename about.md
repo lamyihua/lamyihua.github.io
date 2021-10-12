@@ -31,7 +31,7 @@ PhD student
 ORCID: <a href="http://orcid.org/0000-0002-3445-0451"> 0000-0002-3445-0451</a>
 </p>
 </header>
-<p>Research Interests:
+<p><h4>Research Interests:</h4>
 <br>
 Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
@@ -53,7 +53,7 @@ PhD student
 ORCID: <a href="http://orcid.org/0000-0001-5652-1516"> 0000-0001-5652-1516</a>
 </p>
 </header>
-<p>Research Interests:
+<p><h4>Research Interests:</h4>
 <br>
 Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory, Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
@@ -75,7 +75,7 @@ Associate Research Scientist
 ORCID: <a href="http://orcid.org/0000-0001-6646-0745"> 0000-0001-6646-0745</a>
 </p>
 </header>
-<p>Research Interests:
+<p><h4>Research Interests:</h4>
 <br>
 <h4> Nuclear Physics </h4>
 Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking, Isobaric Multiplet Mass Equation Coefficients, Isospin-Forbidden Proton Emission, Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory
