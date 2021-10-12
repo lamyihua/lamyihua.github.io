@@ -23,7 +23,7 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 </div>
 
 <span class="image left"><img src="{{ "/images/LU_Ning_20211012175243.jpg" | absolute_url }}" alt="" /></span>
-<!--- <a href="https://kuochuanpan.github.io/ceag/people/yhwang/" class="image left"><img src="/ceag/images/people_yhwang.png" alt="" /></a> -->       
+<!--- <a href="https://lamyihua.github.io/about/luning/" class="image left"><img src="/images/LU_Ning_20211012175243.jpg" alt="" /></a> -->       
 <header>
 <!--- <h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2> -->
 <h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2>
@@ -37,6 +37,29 @@ PhD student
 </header>
 <p>Research Interests:
 <br>
-Nuclear shell model, Rapid-proton capture process
+Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
+</p>
+<br style="clear:both" />
+
+
+<span class="image left"><img src="{{ "/images/LAM_YiHua.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/lamyihua/" class="image left"><img src="/images/LAM_YiHua.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/lamyihua/"> Yi Hua LAM (藍乙華)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/lamyihua/"> Yi Hua LAM (藍乙華)</a></h2>
+<p>
+Associate Research Scientist
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+</p>
+</header>
+<p>Research Interests:
+<br>
+<h3> Nuclear Physics </h3>
+Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking
+<h3> Nuclear Astrophysics </h3>
+Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
