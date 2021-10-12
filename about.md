@@ -23,8 +23,7 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
 </div>
 
 <span class="image left"><img src="{{ "/images/LU_Ning_20211012175243.jpg" | absolute_url }}" alt="" /></span>
-<a href="https://kuochuanpan.github.io/ceag/people/yhwang/" class="image left"><img src="/ceag/images/people_yhwang.png" alt="" /></a>
-       
+<!--- <a href="https://kuochuanpan.github.io/ceag/people/yhwang/" class="image left"><img src="/ceag/images/people_yhwang.png" alt="" /></a> -->       
 <header>
 <!--- <h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2> -->
 <h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2>
