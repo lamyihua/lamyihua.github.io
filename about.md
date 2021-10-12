@@ -9,9 +9,9 @@ sitemap:
 ---
 ## Who we are
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<!--- <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span> -->
 
-We are on our way pursuing our to ...
+We are pursuing our dreams in fundamental physics research ...
 
 
 
@@ -84,4 +84,3 @@ Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
 
-<hr />
