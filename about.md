@@ -32,7 +32,6 @@ ORCID: <a href="http://orcid.org/0000-0002-3445-0451"> 0000-0002-3445-0451</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
-<br>
 Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
@@ -54,7 +53,6 @@ ORCID: <a href="http://orcid.org/0000-0001-5652-1516"> 0000-0001-5652-1516</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
-<br>
 Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory, Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
