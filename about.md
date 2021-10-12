@@ -77,9 +77,9 @@ ORCID: <a href="http://orcid.org/0000-0001-6646-0745"> 0000-0001-6646-0745</a>
 </header>
 <p>Research Interests:
 <br>
-<!--- <h4> Nuclear Physics </h4> -->
+<h4> Nuclear Physics </h4>
 Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking, Isobaric Multiplet Mass Equation Coefficients, Isospin-Forbidden Proton Emission, Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory
-<!--- <h4> Nuclear Astrophysics </h4> -->
+<h4> Nuclear Astrophysics </h4>
 Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
