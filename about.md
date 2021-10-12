@@ -22,6 +22,22 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+<span class="image left"><img src="{{ "/images/LU_Ning_20211012175243.jpg" | absolute_url }}" alt="" /></span>
+<a href="https://kuochuanpan.github.io/ceag/people/yhwang/" class="image left"><img src="/ceag/images/people_yhwang.png" alt="" /></a>
+       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2>
+<p>
+PhD student
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+</p>
+</header>
+<p>Research Interests:
+<br>
+Nuclear shell model, Rapid-proton capture process
+</p>
+<br style="clear:both" />
