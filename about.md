@@ -43,6 +43,27 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 <br style="clear:both" />
 
 
+<span class="image right"><img src="{{ "/images/LIU_ZiXin.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/liuzixin/" class="image left"><img src="/images/LIU_ZiXin.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫)</a></h2>
+<p>
+PhD student
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+ORCID: <a href="http://orcid.org/0000-0001-5652-1516"> 0000-0001-5652-1516</a>
+</p>
+</header>
+<p>Research Interests:
+<br>
+Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory, Rapid-Proton Capture Process, Type-I X-ray Burst
+</p>
+<br style="clear:both" />
+
+
 <span class="image left"><img src="{{ "/images/LAM_YiHua.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/lamyihua/" class="image left"><img src="/images/LAM_YiHua.jpg" alt="" /></a> -->       
 <header>
@@ -59,9 +80,9 @@ ORCID: <a href="http://orcid.org/0000-0001-6646-0745"> 0000-0001-6646-0745</a>
 </header>
 <p>Research Interests:
 <br>
-<!--- <h3> Nuclear Physics </h3> -->
-Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking
-<!--- <h3> Nuclear Astrophysics </h3> -->
+<!--- <h4> Nuclear Physics </h4> -->
+Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking, Isobaric Multiplet Mass Equation Coefficients, Isospin-Forbidden Proton Emission, Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory
+<!--- <h4> Nuclear Astrophysics </h4> -->
 Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
