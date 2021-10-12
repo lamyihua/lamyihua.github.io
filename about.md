@@ -13,10 +13,10 @@ sitemap:
 
 We are on our way pursuing our to ...
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
 
 
 
+<hr />
 <span class="image left"><img src="{{ "/images/LU_Ning_20211012175243.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/luning/" class="image left"><img src="/images/LU_Ning_20211012175243.jpg" alt="" /></a> -->       
 <header>
@@ -37,6 +37,7 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
 
+<hr />
 
 <span class="image right"><img src="{{ "/images/LIU_ZiXin.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/liuzixin/" class="image left"><img src="/images/LIU_ZiXin.jpg" alt="" /></a> -->       
@@ -58,6 +59,7 @@ Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory, Rap
 </p>
 <br style="clear:both" />
 
+<hr />
 
 <span class="image left"><img src="{{ "/images/LAM_YiHua.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/lamyihua/" class="image left"><img src="/images/LAM_YiHua.jpg" alt="" /></a> -->       
@@ -81,3 +83,5 @@ Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking, Isobar
 Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
+
+<hr />
