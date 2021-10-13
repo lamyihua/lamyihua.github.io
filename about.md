@@ -11,7 +11,7 @@ sitemap:
 
 <!--- <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span> -->
 
-We are pursuing our dreams in fundamental physics research ...
+We are a bunch of people pursuing our dreams in fundamental physics research ...
 
 
 
@@ -74,7 +74,6 @@ ORCID: <a href="http://orcid.org/0000-0001-6646-0745"> 0000-0001-6646-0745</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
-<br>
 <h4> Nuclear Physics </h4>
 Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking, Isobaric Multiplet Mass Equation Coefficients, Isospin-Forbidden Proton Emission, Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory
 <h4> Nuclear Astrophysics </h4>
