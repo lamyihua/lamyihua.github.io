@@ -82,3 +82,12 @@ Rapid-Proton Capture Process, Type-I X-ray Burst (Periodic/Clocked Bursts and Ph
 </p>
 <br style="clear:both" />
 
+<br>
+<h4 id="contact"><p>Contact:</p></h4>
+<p>
+<a href="#" class="icon fa-user"> Yi Hua Lam</a>
+<br>
+<a href="https://goo.gl/maps/Sf48Pp3eaVTCoG838" class="icon fa-map-marker"> Institute of Modern Physics, <br>Chinese Academy of Sciences, <br>509, NanChang Road, <br> ChengGuan District, <br>LanZhou 730000, <br> China</a>
+<br>
+<a href="mailto:lamyihua%20[at]%20gapp%20[dot]%20impcas.ac.cn" class="icon fa-envelope-o"> lamyihua [at] gapp [dot] impcas.ac.cn </a>
+</p>
