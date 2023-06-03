@@ -53,39 +53,17 @@
           </article>
 					<!-- Post -->
 					<section class="posts">
-						{% for post in site.travelogueposts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								<p>{{ post.excerpt }}</p>
+									<span class="date">31 Oct 2017</span>
+									<h2><a href="/travelogue/welcome-to-massively-the-jekyll-theme/index.html">Template</a></h2>
+								</header> 
+								<a href="/travelogue/welcome-to-massively-the-jekyll-theme/index.html" class="image fit"><img src="/images/pic02.jpg" alt="" /></a> 
+								<p>A travelogue is a film, book written up from a travel diary, or illustrated talk describing the experiences of and places visited by traveller.</p> 
 								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-								</ul>
+								<li><a href="/travelogue/index.html" class="button">Full Story</a></li> 
+								</ul> 
 							</article>
-							<!-- {% if mod3 == 0 %} -->
-							<!-- <article> -->
-								<!-- <header> -->
-									<!-- <h2><a href="#">Grants</a></h2> -->
-								<!-- </header> -->
-
-							<!-- </article> -->
-							<!-- {% endif %} -->
-						{% endfor %}					
-							<!-- <article> -->
-								<!-- <header> -->
-									<!-- <span class="date">31 Oct 2017</span> -->
-									<!-- <h2><a href="/travelogue/welcome-to-massively-the-jekyll-theme/index.html">Template</a></h2> -->
-								<!-- </header> -->
-								<!-- <a href="/travelogue/welcome-to-massively-the-jekyll-theme/index.html" class="image fit"><img src="/images/pic02.jpg" alt="" /></a> -->
-								<!-- <p>A travelogue is a film, book written up from a travel diary, or illustrated talk describing the experiences of and places visited by traveller.</p> -->
-								<!-- <ul class="actions"> -->
-									<!-- <li><a href="/travelogue/index.html" class="button">Full Story</a></li> -->
-								<!-- </ul> -->
-							<!-- </article> -->
 
 					</section>
 
