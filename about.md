@@ -21,9 +21,9 @@ We are a bunch of people pursuing our dreams in fundamental physics research ...
 <!--- <a href="https://lamyihua.github.io/about/luning/" class="image left"><img src="/images/LU_Ning_20211012175243.jpg" alt="" /></a> -->       
 <header>
 <!--- <h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2> -->
-<h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2>
+<h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧) Ph.D.</a></h2>
 <p>
-PhD student
+graduated from Lanzhou University and University of Chinese Academy of Sciences in Dec 2024.
 <br>
 <!--- Email: -->
 <br>
@@ -42,10 +42,12 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 <!--- <a href="https://lamyihua.github.io/about/liuzixin/" class="image left"><img src="/images/LIU_ZiXin.jpg" alt="" /></a> -->       
 <header>
 <!--- <h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫)</a></h2> -->
-<h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫)</a></h2>
+<h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫) Ph.D.</a></h2>
 <p>
-PhD student
+graduated from Lanzhou University and University of Chinese Academy of Sciences in Jun 2024.
 <br>
+Current position: Post-doctorate Researcher of
+Advanced Energy Science and Technology, Guangdong Laboratory, Huizhou 516000, China
 <!--- Email: -->
 <br>
 <!--- Vita: -->
@@ -65,7 +67,7 @@ Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory, Rap
 <!--- <h2><a href="https://lamyihua.github.io/about/lamyihua/"> Yi Hua LAM (藍乙華)</a></h2> -->
 <h2><a href="https://lamyihua.github.io/about/lamyihua/"> Yi Hua LAM (藍乙華)</a></h2>
 <p>
-Associate Research Scientist
+Professor
 <br>
 <!--- Email: -->
 <br>
@@ -77,7 +79,7 @@ ORCID: <a href="http://orcid.org/0000-0001-6646-0745"> 0000-0001-6646-0745</a>
 <h4> Nuclear Physics </h4>
 Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking, Isobaric Multiplet Mass Equation Coefficients, Isospin-Forbidden Proton Emission, Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory
 <h4> Nuclear Astrophysics </h4>
-Rapid-Proton Capture Process, Type-I X-ray Burst (Periodic/Clocked Bursts and Photospheric Radius Expansion Bursts)
+Rapid-Proton Capture Process, Type I X-ray Burst (Periodic/Clocked Bursts and Photospheric Radius Expansion Bursts)
 </p>
 <br style="clear:both" />
 
