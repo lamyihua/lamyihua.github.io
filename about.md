@@ -21,7 +21,7 @@ We are a bunch of people pursuing our dreams in fundamental physics research ...
 <!--- <a href="https://lamyihua.github.io/about/luning/" class="image left"><img src="/images/LU_Ning_20211012175243.jpg" alt="" /></a> -->       
 <header>
 <!--- <h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2> -->
-<h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧) </a></h2> <h4> Ph.D. </h4>
+<h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧) </h2> <h4> Ph.D. </h4> </a>
 <p>
 graduated from Lanzhou University and University of Chinese Academy of Sciences in Dec 2024.
 <br>
@@ -42,7 +42,7 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 <!--- <a href="https://lamyihua.github.io/about/liuzixin/" class="image left"><img src="/images/LIU_ZiXin.jpg" alt="" /></a> -->       
 <header>
 <!--- <h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫)</a></h2> -->
-<h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫) </a></h2> <h4> Ph.D. </h4>
+<h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫) </h2> <h4> Ph.D. </h4> </a>
 <p>
 graduated from Lanzhou University and University of Chinese Academy of Sciences in Jun 2024.
 <br>
