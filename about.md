@@ -21,7 +21,7 @@ We are a bunch of people pursuing our dreams in fundamental physics research ...
 <!--- <a href="https://lamyihua.github.io/about/luning/" class="image left"><img src="/images/LU_Ning_20211012175243.jpg" alt="" /></a> -->       
 <header>
 <!--- <h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧)</a></h2> -->
-<h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧) Ph.D.</a></h2>
+<h2><a href="https://lamyihua.github.io/about/luning/"> Ning LU (盧寧) </a></h2> <h4> Ph.D. </h4>
 <p>
 graduated from Lanzhou University and University of Chinese Academy of Sciences in Dec 2024.
 <br>
@@ -42,7 +42,7 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 <!--- <a href="https://lamyihua.github.io/about/liuzixin/" class="image left"><img src="/images/LIU_ZiXin.jpg" alt="" /></a> -->       
 <header>
 <!--- <h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫)</a></h2> -->
-<h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫) Ph.D.</a></h2>
+<h2><a href="https://lamyihua.github.io/about/liuzixin/"> Zi Xin LIU (劉子鑫) </a></h2> <h4> Ph.D. </h4>
 <p>
 graduated from Lanzhou University and University of Chinese Academy of Sciences in Jun 2024.
 <br>
@@ -88,7 +88,7 @@ Rapid-Proton Capture Process, Type I X-ray Burst (Periodic/Clocked Bursts and Ph
 <p>
 <a href="#" class="icon fa-user"> Yi Hua Lam</a>
 <br>
-<a href="https://goo.gl/maps/Sf48Pp3eaVTCoG838" class="icon fa-map-marker"> Institute of Modern Physics, <br>Chinese Academy of Sciences, <br>509, NanChang Road, <br> ChengGuan District, <br>LanZhou 730000, <br> China</a>
+<a href="https://maps.app.goo.gl/SqyifV2zwd6DrW4p9" class="icon fa-map-marker"> Department of Physics, <br>Zhejiang Sci-Tech University, <br>Hangzhou 310018, <br> China</a>
 <br>
-<a href="mailto:lamyihua%20[at]%20gapp%20[dot]%20impcas.ac.cn" class="icon fa-envelope-o"> lamyihua [at] gapp [dot] impcas.ac.cn </a>
+<a href="mailto:lamyihua%20[at]%20gapp%20[dot]%20impcas.ac.cn" class="icon fa-envelope-o"> lamyihua [at] gapp [dot] zstu.edu.cn </a>
 </p>
