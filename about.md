@@ -90,5 +90,6 @@ Rapid-Proton Capture Process, Type I X-ray Burst (Periodic/Clocked Bursts and Ph
 <br>
 <a href="https://maps.app.goo.gl/SqyifV2zwd6DrW4p9" class="icon fa-map-marker"> Department of Physics, <br>Zhejiang Sci-Tech University, <br>Hangzhou 310018, <br> China</a>
 <br>
-<a href="mailto:lamyihua%20[at]%20gapp%20[dot]%20impcas.ac.cn" class="icon fa-envelope-o"> lamyihua [at] zstu [dot] edu.cn </a>
+<a href="https://maps.app.goo.gl/Dn3wDkTiJRdSJPzMA" class="icon fa-map-marker">(Concurrent visiting scientist), <br>Astrophysical Big Bang Laboratory (ABBL), <br>Cluster for Pioneering Research, <br>RIKEN, <br>Wako, Saitama 351-0198, <br>Japan </a>
+<a href="mailto:lamyihua[at]zstu[dot]edu.cn" class="icon fa-envelope-o"> lamyihua [at] zstu [dot] edu.cn </a>
 </p>
