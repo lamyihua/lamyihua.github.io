@@ -11,7 +11,7 @@ sitemap:
 
 <!--- <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span> -->
 
-We are a bunch of people pursuing our dreams in fundamental physics research ...
+We cross at the landscape of fundamental physics research and pursue the same goal...
 
 
 <hr />
@@ -68,16 +68,24 @@ Rapid-Proton Capture Process, Type I X-ray Burst (Periodic/Clocked Bursts, Doubl
 <br>
 <a href="https://maps.app.goo.gl/SqyifV2zwd6DrW4p9" class="icon fa-map-marker"> Department of Physics, <br>Zhejiang Sci-Tech University, <br>Hangzhou 310018, <br> China</a>
 <br>
-<a href="https://maps.app.goo.gl/Dn3wDkTiJRdSJPzMA" class="icon fa-map-marker">(Concurrent visiting scientist), <br>Astrophysical Big Bang Laboratory (ABBL), <br>Pioneering Research Institute, <br>RIKEN, <br>Wako, Saitama 351-0198, <br>Japan </a>
+(Concurrent visiting scientist), 
+<br>
+<a href="http://orcid.org/0000-0001-6646-0745"> Astrophysical Big Bang Laboratory (ABBL)</a>, 
+<br>
+<a href="https://maps.app.goo.gl/Dn3wDkTiJRdSJPzMA" class="icon fa-map-marker">Pioneering Research Institute, <br>RIKEN, <br>Wako, Saitama 351-0198, <br>Japan </a>
 <br>
 <a href="mailto:lamyihua[at]zstu[dot]edu.cn" class="icon fa-envelope-o"> lamyihua [at] zstu [dot] edu.cn </a>
 </p>
 
-
+https://nagataki-lab.riken.jp/index_en.html
 
 <hr />
 <h2> Previous members </h2>
+
+<!---
 <hr />
+--> 
+
 <span class="image left"><img src="{{ "/images/LU_Ning_20211012175243.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/luning/" class="image left"><img src="/images/LU_Ning_20211012175243.jpg" alt="" /></a> -->       
 <header>
@@ -97,7 +105,9 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
 
+<!---
 <hr />
+--> 
 
 <span class="image right"><img src="{{ "/images/LIU_ZiXin.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/liuzixin/" class="image left"><img src="/images/LIU_ZiXin.jpg" alt="" /></a> -->       
