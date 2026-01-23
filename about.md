@@ -21,7 +21,7 @@ We cross at the landscape of fundamental physics research and pursue the same go
 <!--- <h2><a href="https://lamyihua.github.io/about/zhangziao/"> Zi-Ao ZHANG (盧寧)</a></h2> -->
 <h2><a href="https://lamyihua.github.io/about/zhangziao/"> Zi-Ao ZHANG (張子奧) </a></h2> 
 <p>
-mentored student of Zhejiang Sci-Tech University 2025-2028.
+BSc student of Zhejiang Sci-Tech University 2025-2028.
 <br>
 <!--- Email: -->
 <br>
