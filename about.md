@@ -21,7 +21,7 @@ We cross at the landscape of fundamental physics research and pursue the same go
 <!--- <h2><a href="https://lamyihua.github.io/about/zhangziao/"> Zi-Ao ZHANG (盧寧)</a></h2> -->
 <h2><a href="https://lamyihua.github.io/about/zhangziao/"> Zi-Ao ZHANG (張子奧) </a></h2> 
 <p>
-BSc student of Zhejiang Sci-Tech University 2025-2028.
+BSc student of Zhejiang Sci-Tech University 2024-2028.
 <br>
 <!--- Email: -->
 <br>
@@ -35,6 +35,26 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 <br style="clear:both" />
 <hr />
 
+
+
+<span class="image right"><img src="{{ "/images/WU_KeXin.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/wukexin/" class="image left"><img src="/images/WU_KeXin.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/wukexin/"> Ke Xin WU (吳可欣)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/wukexin/"> Ke Xin WU (吳可欣) </a></h2> 
+<p>
+BSc student of Zhejiang Sci-Tech University 2024-2028.
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+ORCID: <a href="http://orcid.org/0009-0000-4968-3496"> 0009-0000-4968-3496</a>
+</p>
+</header>
+<p><h4>Research Interests:</h4>
+Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
+</p>
+<br style="clear:both" />
 
 
 
