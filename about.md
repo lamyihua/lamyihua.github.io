@@ -59,6 +59,28 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 
 
 <hr />
+<span class="image left"><img src="{{ "/images/ZHANG_BoKang.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/zhangbokang/" class="image left"><img src="/images/ZHANG_ZiAo.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/zhangbokang/"> Zi-Ao ZHANG (盧寧)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/zhangbokang/"> Bo Kang ZHANG (張博康) </a></h2> 
+<p>
+BSc student of Zhejiang Sci-Tech University Sep. 2024-now.
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+ORCID: <a href="http://orcid.org/0009-0003-2360-4982"> 0009-0003-2360-4982</a>
+</p>
+</header>
+<p><h4>Research Interests:</h4>
+Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
+</p>
+<br style="clear:both" />
+
+
+
+<hr />
 <span class="image left"><img src="{{ "/images/LAM_YiHua.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/lamyihua/" class="image left"><img src="/images/LAM_YiHua.jpg" alt="" /></a> -->       
 <header>
