@@ -81,6 +81,27 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 
 
 <hr />
+<span class="image right"><img src="{{ "/images/XIA_CaiHe.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/xiacaihe/" class="image left"><img src="/images/XIA_CaiHe.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/xiacaihe/"> Cai He XIA (夏才賀)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/xiacaihe/"> Cai He XIA (夏才賀) </a></h2> 
+<p>
+Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2022-now.
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+ORCID: <a href="http://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a>
+</p>
+</header>
+<p><h4>Research Interests:</h4>
+Supernovae
+</p>
+<br style="clear:both" />
+
+
+<hr />
 <span class="image left"><img src="{{ "/images/LAM_YiHua.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/lamyihua/" class="image left"><img src="/images/LAM_YiHua.jpg" alt="" /></a> -->       
 <header>
