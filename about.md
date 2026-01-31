@@ -133,22 +133,19 @@ Rapid-Proton Capture Process, Type I X-ray Burst (Periodic/Clocked Bursts, Doubl
 <br>
 (Concurrent visiting scientist), 
 <br>
-<a href="http://orcid.org/0000-0001-6646-0745"> Astrophysical Big Bang Laboratory (ABBL)</a>, 
+<a href="https://nagataki-lab.riken.jp/index_en.html"> Astrophysical Big Bang Laboratory (ABBL)</a>, 
 <br>
 <a href="https://maps.app.goo.gl/Dn3wDkTiJRdSJPzMA" class="icon fa-map-marker">Pioneering Research Institute, <br>RIKEN, <br>Wako, Saitama 351-0198, <br>Japan </a>
 <br>
 <a href="mailto:lamyihua[at]zstu[dot]edu.cn" class="icon fa-envelope-o"> lamyihua [at] zstu [dot] edu.cn </a>
 </p>
-
-https://nagataki-lab.riken.jp/index_en.html
-
 <hr />
-<h2> Previous members </h2>
 
+
+<h2> Previous members </h2>
 <!---
 <hr />
 --> 
-
 <span class="image left"><img src="{{ "/images/LU_Ning_20211012175243.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/luning/" class="image left"><img src="/images/LU_Ning_20211012175243.jpg" alt="" /></a> -->       
 <header>
