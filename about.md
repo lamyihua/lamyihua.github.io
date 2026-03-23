@@ -118,7 +118,7 @@ ORCID: <a href="http://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
-Nuclear Shell Model, Nuclear Mass Model, Bayesian Analysis, Markov Chain Monte Carlo, Physics-Informed Machine Learning
+Nuclear Shell Model, Macroscopic Nuclear Mass Model, Bayesian Analysis, Markov Chain Monte Carlo, Physics-Informed Machine Learning
 </p>
 <br style="clear:both" />
 
@@ -145,7 +145,7 @@ ORCID: <a href="http://orcid.org/0000-0001-6646-0745"> 0000-0001-6646-0745</a>
 </header>
 <p><h4>Research Interests:</h4>
 <h4> Nuclear Physics </h4>
-Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking, Isobaric Multiplet Mass Equation Coefficients, Isospin-Forbidden Proton Emission, Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory
+Nuclear Shell Model, Isospin Non-Conservation, Isospin Symmetry Breaking, Isobaric Multiplet Mass Equation Coefficients, Isospin-Forbidden Proton Emission, Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory, Macroscopic Nuclear Mass Model, Bayesian Analysis, Markov Chain Monte Carlo, Physics-Informed Machine Learning
 <h4> Nuclear Astrophysics </h4>
 Rapid-Proton Capture Process, Type I X-ray Burst (Periodic/Clocked Bursts, Double-Peak, and Photospheric Radius Expansion Bursts)
 </p>
