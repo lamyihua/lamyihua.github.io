@@ -106,15 +106,15 @@ Supernovae
 <span class="image left"><img src="{{ "/images/LI_XiangNan.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/lixiangnan/" class="image left"><img src="/images/LI_XiangNan.jpg" alt="" /></a> -->       
 <header>
-<!--- <h2><a href="https://lamyihua.github.io/about/lixiangnan/"> Xiang Nan LI (李祥楠)</a></h2> -->
-<h2><a href="https://lamyihua.github.io/about/lixiangnan/"> Xiang Nan LI (李祥楠) </a></h2> 
+<!--- <h2><a href="https://lamyihua.github.io/about/lixiangnan/"> Xiang Nan LEE (李祥楠)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/lixiangnan/"> Xiang Nan LEE (李祥楠) </a></h2> 
 <p>
 Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2021-now.
 <br>
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0009-0003-2360-4982"> 0009-0003-2360-4982</a>
+ORCID: <a href="http://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
