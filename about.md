@@ -14,6 +14,27 @@ sitemap:
 We cross at the landscape of fundamental physics research and pursue the same goal...
 
 
+<span class="image right"><img src="{{ "/images/AO_QiQi.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/aoqiqi/" class="image left"><img src="/images/AO_QiQi.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/aoqiqi/"> Qi Qi AO (敖琦琦)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/aoqiqi/"> Qi Qi AO (敖琦琦) </a></h2> 
+<p>
+BSc student of Zhejiang Sci-Tech University Sep. 2024-now.
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+ORCID: <a href="http://orcid.org/0009-0002-0756-6528"> 0009-0002-0756-6528</a>
+</p>
+</header>
+<p><h4>Research Interests:</h4>
+Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst, Supernovae
+</p>
+<br style="clear:both" />
+
+
+
 <hr />
 <span class="image left"><img src="{{ "/images/ZHANG_ZiAo.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/zhangziao/" class="image left"><img src="/images/ZHANG_ZiAo.jpg" alt="" /></a> -->       
@@ -33,10 +54,10 @@ ORCID: <a href="http://orcid.org/0009-0006-9932-9616"> 0009-0006-9932-9616</a>
 Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 </p>
 <br style="clear:both" />
+
+
+
 <hr />
-
-
-
 <span class="image right"><img src="{{ "/images/WU_KeXin.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/wukexin/" class="image left"><img src="/images/WU_KeXin.jpg" alt="" /></a> -->       
 <header>
