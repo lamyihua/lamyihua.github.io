@@ -145,7 +145,25 @@ Nuclear Shell Model, Macroscopic Nuclear Mass Model, Bayesian Analysis, Markov C
 
 
 
-
+<hr />
+<span class="image right"><img src="{{ "/images/CHEN_YaoChi.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/chenyaochi/" class="image left"><img src="/images/CHEN_YaoChi.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/chenyaochi/"> Yao Chi CHEN (陳瑤池)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/chenyaochi/"> Yao Chi CHEN (陳瑤池) </a></h2> 
+<p>
+Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2022-now.
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+ORCID: <a href="http://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a>
+</p>
+</header>
+<p><h4>Research Interests:</h4>
+Nuclear Shell Model, Isospin Non-Conservation, Isospin-Forbidden Proton Emission
+</p>
+<br style="clear:both" />
 
 
 
