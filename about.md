@@ -52,7 +52,7 @@ ORCID: <a href="https://orcid.org/0009-0002-0756-6528"> 0009-0002-0756-6528</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
-Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst, Supernovae
+Astronomical compact objects, Equation of state of compact objects, Failed supernovae
 </p>
 <br style="clear:both" />
 
@@ -74,7 +74,7 @@ ORCID: <a href="https://orcid.org/0009-0006-9932-9616"> 0009-0006-9932-9616</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
-Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
+Covariant energy density functional theory
 </p>
 <br style="clear:both" />
 
@@ -96,7 +96,7 @@ ORCID: <a href="https://orcid.org/0009-0000-4968-3496"> 0009-0000-4968-3496</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
-Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
+Nuclear Shell Model, Isospin Non-Conservation, Isospin-forbidden Proton Emission
 </p>
 <br style="clear:both" />
 
@@ -118,31 +118,11 @@ ORCID: <a href="https://orcid.org/0009-0003-2360-4982"> 0009-0003-2360-4982</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
-Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
+Covariant energy density functional theory
 </p>
 <br style="clear:both" />
 
 
-
-<hr />
-<span class="image right"><img src="{{ "/images/XIA_CaiHe.jpg" | absolute_url }}" alt="" /></span>
-<!--- <a href="https://lamyihua.github.io/about/xiacaihe/" class="image left"><img src="/images/XIA_CaiHe.jpg" alt="" /></a> -->       
-<header>
-<!--- <h2><a href="https://lamyihua.github.io/about/xiacaihe/"> Cai He XIA (夏才賀)</a></h2> -->
-<h2><a href="https://lamyihua.github.io/about/xiacaihe/"> Cai He XIA (夏才賀) </a></h2> 
-<p>
-Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2022-now.
-<br>
-<!--- Email: -->
-<br>
-<!--- Vita: -->
-<!--- ORCID: <a href="https://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a> -->
-</p>
-</header>
-<p><h4>Research Interests:</h4>
-Supernovae
-</p>
-<br style="clear:both" />
 
 
 
@@ -162,29 +142,7 @@ ORCID: <a href="https://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
-Nuclear Shell Model, Macroscopic Nuclear Mass Model, Bayesian Analysis, Markov Chain Monte Carlo, Physics-Informed Machine Learning
-</p>
-<br style="clear:both" />
-
-
-
-<hr />
-<span class="image right"><img src="{{ "/images/CHEN_YaoChi.jpg" | absolute_url }}" alt="" /></span>
-<!--- <a href="https://lamyihua.github.io/about/chenyaochi/" class="image left"><img src="/images/CHEN_YaoChi.jpg" alt="" /></a> -->       
-<header>
-<!--- <h2><a href="https://lamyihua.github.io/about/chenyaochi/"> Yao Chi CHEN (陳瑤池)</a></h2> -->
-<h2><a href="https://lamyihua.github.io/about/chenyaochi/"> Yao Chi CHEN (陳瑤池) </a></h2> 
-<p>
-Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2022-now.
-<br>
-<!--- Email: -->
-<br>
-<!--- Vita: -->
-ORCID: <a href="https://orcid.org/0009-0004-4261-6724"> 0009-0004-4261-6724</a>
-</p>
-</header>
-<p><h4>Research Interests:</h4>
-Nuclear Shell Model, Isospin Non-Conservation, Isospin-Forbidden Proton Emission
+Nuclear Shell Model, Macroscopic Nuclear Mass Model, Bayesian Analysis, Markov Chain Monte Carlo, Physics-Informed Machine Learning, Covariant energy density functional theory
 </p>
 <br style="clear:both" />
 
@@ -283,4 +241,44 @@ Covariant Density Functional Theory, Relativistic Hartree-Bogoliubov Theory, Rap
 <hr />
 --> 
 
+<hr />
+<span class="image right"><img src="{{ "/images/XIA_CaiHe.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/xiacaihe/" class="image left"><img src="/images/XIA_CaiHe.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/xiacaihe/"> Cai He XIA (夏才賀)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/xiacaihe/"> Cai He XIA (夏才賀) </a></h2> 
+<p>
+Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2022-now.
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+<!--- ORCID: <a href="https://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a> -->
+</p>
+</header>
+<p><h4>Research Interests:</h4>
+Supernovae
+</p>
+<br style="clear:both" />
 
+
+
+<hr />
+<span class="image right"><img src="{{ "/images/CHEN_YaoChi.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/chenyaochi/" class="image left"><img src="/images/CHEN_YaoChi.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/chenyaochi/"> Yao Chi CHEN (陳瑤池)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/chenyaochi/"> Yao Chi CHEN (陳瑤池) </a></h2> 
+<p>
+Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2022-now.
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+ORCID: <a href="https://orcid.org/0009-0004-4261-6724"> 0009-0004-4261-6724</a>
+</p>
+</header>
+<p><h4>Research Interests:</h4>
+Nuclear Shell Model, Isospin Non-Conservation, Isospin-forbidden Proton Emission
+</p>
+<br style="clear:both" />
