@@ -14,6 +14,29 @@ sitemap:
 We cross at the landscape of fundamental physics research and pursue the same goal...
 
 
+
+<hr />
+<span class="image left"><img src="{{ "/images/CAI_SiNuo.jpg" | absolute_url }}" alt="" /></span>
+<!--- <a href="https://lamyihua.github.io/about/caisinuo/" class="image left"><img src="/images/ZHANG_ZiAo.jpg" alt="" /></a> -->       
+<header>
+<!--- <h2><a href="https://lamyihua.github.io/about/caisinuo/"> Sinuo CAI (蔡思諾)</a></h2> -->
+<h2><a href="https://lamyihua.github.io/about/caisinuo/"> Sinuo CAI (蔡思諾) </a></h2> 
+<p>
+BSc student of Zhejiang Sci-Tech University Sep. 2025-now.
+<br>
+<!--- Email: -->
+<br>
+<!--- Vita: -->
+ORCID: <a href="https://orcid.org/0009-0006-8756-5187"> 0009-0006-8756-5187</a>
+</p>
+</header>
+<p><h4>Research Interests:</h4>
+Stellar evolution and astronomical compact objects
+</p>
+<br style="clear:both" />
+
+
+
 <span class="image right"><img src="{{ "/images/AO_QiQi.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/aoqiqi/" class="image left"><img src="/images/AO_QiQi.jpg" alt="" /></a> -->       
 <header>
@@ -25,7 +48,7 @@ BSc student of Zhejiang Sci-Tech University Sep. 2024-now.
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0009-0002-0756-6528"> 0009-0002-0756-6528</a>
+ORCID: <a href="https://orcid.org/0009-0002-0756-6528"> 0009-0002-0756-6528</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
@@ -39,7 +62,7 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst, Supernova
 <span class="image left"><img src="{{ "/images/ZHANG_ZiAo.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/zhangziao/" class="image left"><img src="/images/ZHANG_ZiAo.jpg" alt="" /></a> -->       
 <header>
-<!--- <h2><a href="https://lamyihua.github.io/about/zhangziao/"> Zi-Ao ZHANG (盧寧)</a></h2> -->
+<!--- <h2><a href="https://lamyihua.github.io/about/zhangziao/"> Zi-Ao ZHANG (張子奧)</a></h2> -->
 <h2><a href="https://lamyihua.github.io/about/zhangziao/"> Zi-Ao ZHANG (張子奧) </a></h2> 
 <p>
 BSc student of Zhejiang Sci-Tech University Sep. 2024-now.
@@ -47,7 +70,7 @@ BSc student of Zhejiang Sci-Tech University Sep. 2024-now.
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0009-0006-9932-9616"> 0009-0006-9932-9616</a>
+ORCID: <a href="https://orcid.org/0009-0006-9932-9616"> 0009-0006-9932-9616</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
@@ -69,7 +92,7 @@ BSc student of Zhejiang Sci-Tech University Sep. 2024-now.
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0009-0000-4968-3496"> 0009-0000-4968-3496</a>
+ORCID: <a href="https://orcid.org/0009-0000-4968-3496"> 0009-0000-4968-3496</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
@@ -83,7 +106,7 @@ Nuclear Shell Model, Rapid-Proton Capture Process, Type-I X-ray Burst
 <span class="image left"><img src="{{ "/images/ZHANG_BoKang.jpg" | absolute_url }}" alt="" /></span>
 <!--- <a href="https://lamyihua.github.io/about/zhangbokang/" class="image left"><img src="/images/ZHANG_ZiAo.jpg" alt="" /></a> -->       
 <header>
-<!--- <h2><a href="https://lamyihua.github.io/about/zhangbokang/"> Zi-Ao ZHANG (盧寧)</a></h2> -->
+<!--- <h2><a href="https://lamyihua.github.io/about/zhangbokang/"> Zi-Ao ZHANG (張博康)</a></h2> -->
 <h2><a href="https://lamyihua.github.io/about/zhangbokang/"> Bo Kang ZHANG (張博康) </a></h2> 
 <p>
 BSc student of Zhejiang Sci-Tech University Sep. 2024-now.
@@ -91,7 +114,7 @@ BSc student of Zhejiang Sci-Tech University Sep. 2024-now.
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0009-0003-2360-4982"> 0009-0003-2360-4982</a>
+ORCID: <a href="https://orcid.org/0009-0003-2360-4982"> 0009-0003-2360-4982</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
@@ -113,7 +136,7 @@ Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2022-now.
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-<!--- ORCID: <a href="http://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a> -->
+<!--- ORCID: <a href="https://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a> -->
 </p>
 </header>
 <p><h4>Research Interests:</h4>
@@ -135,7 +158,7 @@ Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2021-now.
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a> 
+ORCID: <a href="https://orcid.org/0000-0000-0000-0000"> 0000-0000-0000-0000</a> 
 </p>
 </header>
 <p><h4>Research Interests:</h4>
@@ -157,7 +180,7 @@ Final-year project BSc student of Zhejiang Sci-Tech University Sep. 2022-now.
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0009-0004-4261-6724"> 0009-0004-4261-6724</a>
+ORCID: <a href="https://orcid.org/0009-0004-4261-6724"> 0009-0004-4261-6724</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
@@ -179,7 +202,7 @@ Professor
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0000-0001-6646-0745"> 0000-0001-6646-0745</a>
+ORCID: <a href="https://orcid.org/0000-0001-6646-0745"> 0000-0001-6646-0745</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
@@ -223,7 +246,7 @@ graduated from Lanzhou University and University of Chinese Academy of Sciences 
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0000-0002-3445-0451"> 0000-0002-3445-0451</a>
+ORCID: <a href="https://orcid.org/0000-0002-3445-0451"> 0000-0002-3445-0451</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
@@ -248,7 +271,7 @@ Advanced Energy Science and Technology, Guangdong Laboratory, Huizhou 516000, Ch
 <!--- Email: -->
 <br>
 <!--- Vita: -->
-ORCID: <a href="http://orcid.org/0000-0001-5652-1516"> 0000-0001-5652-1516</a>
+ORCID: <a href="https://orcid.org/0000-0001-5652-1516"> 0000-0001-5652-1516</a>
 </p>
 </header>
 <p><h4>Research Interests:</h4>
